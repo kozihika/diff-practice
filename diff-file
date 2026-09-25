@@ -1,0 +1,4 @@
+diffは、WD, Staging Area, Head間で、指定が巡回している。
+git diff では、WDとSA
+git diff --stagedでは、Staging AreaとHead
+git diff HEADでは、WDとHead 
